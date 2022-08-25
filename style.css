@@ -1,12 +1,10 @@
 h1{
-    color: #ccc;
-    background-color: black;
+    color: rgb(0, 0, 0);
+    background-color: rgb(146, 190, 159);
     margin: 0px;
     width: auto;
-    height: 40px;
-}
-hr{
-    margin: 0px;
+    height: 45px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 /* Mega Menu */
@@ -20,7 +18,7 @@ hr{
   
   .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(38, 55, 85);
     font-family: Arial, Helvetica, sans-serif;
   }
   
@@ -108,5 +106,8 @@ hr{
       width: 100%;
       height: auto;
     }
+  }
+  a{
+    border-radius: 6px;
   }
   /* Mega Menu */
