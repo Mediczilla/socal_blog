@@ -111,8 +111,28 @@ body {
 a{
   border-radius: 6px;
 }
-/* Mega Menu */
-
-p{
+h3{
   color: black;
 }
+/* Mega Menu */
+
+
+/* Lawnmower */
+
+.p_1{
+  color: black;
+  padding: 3%;
+}
+.lawnmower{
+  color: #ccc;
+  background-color: rgb(38, 55, 85);
+  border-color: rgb(38, 55, 85);
+  cursor: pointer;
+}
+.ryobi_box{
+  float: left;
+  padding: 1%;
+  border-radius: 20px;
+}
+
+/* Lawnmower */
